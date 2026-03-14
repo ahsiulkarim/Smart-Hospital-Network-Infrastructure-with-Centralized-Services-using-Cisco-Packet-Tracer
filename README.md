@@ -1,5 +1,4 @@
-# 🏥 Smart Hospital Network Infrastructure with Centralized Services
-### Using Cisco Packet Tracer
+### 🏥 Smart Hospital Network Infrastructure with Centralized Services Using Cisco Packet Tracer
 
 ---
 
@@ -361,5 +360,3 @@ smart_hospital_network/
     ├── img_18_page18.jpeg      ← Compose Mail: To Emergency1, Subject Saying hello
     └── img_19_page19.jpeg      ← Mail Browser: Emergency1 inbox, Receive Mail Success
 ```
-
-> **Note:** Due to the large number of devices, only sample configuration screenshots are included in this README. All devices were fully configured with appropriate IP settings, roles, and services as reflected in the Packet Tracer `.pkt` simulation file.
