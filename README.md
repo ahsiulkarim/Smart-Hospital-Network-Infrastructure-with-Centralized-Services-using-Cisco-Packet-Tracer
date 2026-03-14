@@ -100,7 +100,8 @@ Router(config)# interface [Interface_Type]
 Router(config-if)# ip address [IP_Address] [Subnet_Mask]
 Router(config-if)# no shutdown
 Router(config-if)# exit
-```
+
+``` 
 
 ![IP Assignment of Router](images/img_02_page6.jpeg)
 
@@ -119,7 +120,7 @@ Router(config-if)# exit
 *Figure: Static IP configuration on an Emergency Department PC — IPv4 Address: `192.168.30.1`, Subnet Mask: `255.255.255.0`, Default Gateway: `192.168.30.6`, DNS Server: `192.168.36.8`.*
 
 ---
-
+4
 #### 2.2.2 FTP Server Setup
 
 The FTP server at `192.168.36.6` was configured with **role-based access control (RBAC)**:
