@@ -1,5 +1,4 @@
-# 🏥 Smart Hospital Network Infrastructure with Centralized Services
-### Using Cisco Packet Tracer
+### 🏥 Smart Hospital Network Infrastructure with Centralized Services Using Cisco Packet Tracer
 
 ---
 
