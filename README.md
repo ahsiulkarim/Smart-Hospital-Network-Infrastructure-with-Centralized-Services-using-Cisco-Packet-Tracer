@@ -295,7 +295,7 @@ Each PC was configured with an email client pointed to the centralized email ser
 
 **Screenshot 2 — Receiving Email in Inbox**
 
-![Receiving Mail](images/img_19_page19.jpeg)
+![Receiving Mail](images/img_19_page19.jpeg)  
 
 *Figure: Mail Browser on PC `Emergency1` (Desktop → Email → Receive) — inbox shows 1 successfully received email from `Emergency2@gmail.com`, Subject: `Saying hello`, received Thu Aug 21 2025 at 18:17:07. Status bar at bottom confirms: `Receiving mail from POP3 Server 192.168.36.7` and `Receive Mail Success.` The 3 "Delivery Status Notification (Failure)" entries are from earlier misconfigured test attempts before DNS was properly set up.*
 
