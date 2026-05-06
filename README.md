@@ -1,22 +1,4 @@
 ### 🏥 Smart Hospital Network Infrastructure with Centralized Services Using Cisco Packet Tracer
-
----
-
-**Institution:** East West University  
-**Department:** Computer Science and Engineering (CSE)  
-**Semester:** Summer 2025 — B.Sc. in CSE  
-**Course:** CSE405 — Computer Networks | Section: 6  
-**Submission Date:** 1st September, 2025  
-**Course Teacher:** Rabea Khatun
-
-| Name | Student ID |
-|------|------------|
-| Ahsiul Karim | 2022-3-60-074 |
-| Sourav Roy | 2020-3-60-028 |
-| Nasrullah Kaisher Sijan | 2023-1-60-204 |
-
----
-
 ## 📋 Table of Contents
 
 1. [Introduction](#1-introduction)
@@ -361,3 +343,22 @@ smart_hospital_network/
     ├── img_18_page18.jpeg      ← Compose Mail: To Emergency1, Subject Saying hello
     └── img_19_page19.jpeg      ← Mail Browser: Emergency1 inbox, Receive Mail Success
 ```
+
+
+
+---
+
+**Institution:** East West University  
+**Department:** Computer Science and Engineering (CSE)  
+**Semester:** Summer 2025 — B.Sc. in CSE  
+**Course:** CSE405 — Computer Networks | Section: 6  
+**Submission Date:** 1st September, 2025  
+**Course Teacher:** Rabea Khatun
+
+| Name | Student ID |
+|------|------------|
+| Ahsiul Karim | 2022-3-60-074 |
+| Sourav Roy | 2020-3-60-028 |
+| Nasrullah Kaisher Sijan | 2023-1-60-204 |
+
+---
